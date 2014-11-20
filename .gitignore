@@ -1,0 +1,24 @@
+# Maven
+target/
+
+# node js
+node_modules/
+
+# Python
+*.pyc
+.spyderproject
+*.egg-info/
+build/
+dist/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.settings
+.project
+.classpath
+
+# Mac OS X
+.DS_Store
